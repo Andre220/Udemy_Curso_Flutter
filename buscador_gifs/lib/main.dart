@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:buscador_gifs/UI/HomePage.dart';
+import 'package:buscador_gifs/UI/GifPage.dart';
 
 void main() {
   runApp(MaterialApp(
